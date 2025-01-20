@@ -1,14 +1,17 @@
 ---
 ---
 /* Override theme defaults */
-$base-font-family: HelveticaNeu;
-$background-color: #685a09;
+$base-font-family: 'Helvetica Neue', serif;
+$background-color: #f2efde;
 
 /* load _sass/minima.scss */
 @import "minima";
 
 /* Put any custom CSS here */
-
+body {
+    background-color: $background-color;
+    font-family: $base-font-family;
+  }
 
 
 
