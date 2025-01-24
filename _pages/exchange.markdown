@@ -4,6 +4,7 @@
 
 layout: home
 list_title: "Newz: From around the world"
+permalink: /exchange/
 ---
 
 <h3> Claire's New Zealand newspaper </h3>
