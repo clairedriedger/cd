@@ -6,4 +6,5 @@ layout: home
 ---
 
 
-this is my content
+NewZ: From around the world
+Claire's New Zealand newspaper
