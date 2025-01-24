@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-list_title: "Newz: From around the world"
+list_title: "Claire's New Zealand newspaper"
 ---
 
-<p> Claire's New Zealand newspaper </p>
+<h1> Newz: From around the world </h1>
