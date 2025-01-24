@@ -6,7 +6,4 @@ layout: home
 list_title: "Newz: From around the world"
 ---
 
-<h1>{{ page.list_title }}</h1>
 <h3> Claire's New Zealand newspaper </h3>
-
-h3 {margin-top: 0;}
