@@ -22,7 +22,7 @@ title: Claire Driedger
 email: claireyd3@gmail.com
 description: >-  # comment
   Description
-baseurl: "cd" # the subpath of your site, e.g. /blog
+baseurl: "/cd" # the subpath of your site, e.g. /blog
 url: "clairedriedger" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  clairedriedger
 linkedin_username: clairedriedger
@@ -36,11 +36,9 @@ plugins:
   - jekyll-remote-theme
 
 logo: /images/logo.png
-permalink: "/home/"
-
 header_pages:
-  - about.markdown
-  - index.markdown
+ - about.md
+ - exchange.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
