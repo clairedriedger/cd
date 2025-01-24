@@ -37,8 +37,18 @@ plugins:
 
 logo: /images/logo.png
 header_pages:
- - about.md
- - exchange.md
+  - about.md
+  - exchange.md
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      permalink: /:basename/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
