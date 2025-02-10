@@ -3,8 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-list_title: "Newz: From around the world"
+list_title: "Newz: Claire's New Zealand newspaper"
 permalink: /exchange/
 ---
-
-<h3> Claire's New Zealand newspaper </h3>
