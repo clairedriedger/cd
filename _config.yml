@@ -21,9 +21,10 @@
 title: Claire Driedger
 email: claireyd3@gmail.com
 description: >-  # comment
-  Description
+  :D
 baseurl: "/cd" # the subpath of your site, e.g. /blog
 url: "clairedriedger" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:title/
 github_username:  clairedriedger
 linkedin_username: clairedriedger
 
@@ -37,7 +38,6 @@ plugins:
 
 logo: /images/logo.png
 header_pages:
-  - about.md
   - exchange.md
 
 include:

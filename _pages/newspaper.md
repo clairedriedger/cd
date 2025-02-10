@@ -1,0 +1,13 @@
+---
+layout: page
+list_title: "Newz: Claire's New Zealand exchange newspaper"
+permalink: /exchange/
+---
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
+
