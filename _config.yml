@@ -24,7 +24,7 @@ description: >-  # comment
   :D
 baseurl: "/cd" # the subpath of your site, e.g. /blog
 url: "clairedriedger" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: /:title/
+permalink: "/cd/:year/:month/:day/:title/"
 github_username:  clairedriedger
 linkedin_username: clairedriedger
 
