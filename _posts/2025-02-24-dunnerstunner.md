@@ -5,6 +5,8 @@ date:   2025-02-24
 permalink: /2025/02/24/dunnerstunner/
 ---
 
+Note: photos to come
+
 Dearest friends and family,
 
 Hello once again from across the ocean. Thank you so much to everyone who has reached out to me (or even if you're just reading this), and I apologize that it takes me a few days to reply, I promise it's not personal (or is it HAHAH). This week's blog post contains a full week of life, and the last week before I begin school. A 'Dunner Stunner' is a nickname for a beautiful day in Dunedin. Instead of going day-by-day for this week, I'm going to categorize my activities and list them in that way. One of the big things I did this week was make my bucket list for my time here! Realistically I won't do everything on this list (because of school and lack of car, but I'm going to try my best - and get creative - to do as much as I can). I'll include screenshots of the bucket list at the bottom of this post. For now, here is the map form of most of the items/locations, for the most curious amongst you all: https://www.google.com/maps/d/u/0/edit?mid=1WEU3PYco62d4cfOjdsQwZ-BlUHRj-YQ&usp=sharing. Yay, maps! Soon, I will also plan my trip for the mid-semester break!
