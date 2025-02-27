@@ -45,18 +45,16 @@ Another hike I did was called Pineapple Track and Flagstaff Summit. I'm really i
 <br>
 <img src="/cd/images/dunnerstunner/flag6.JPG" style="display: block; margin: 0 auto;" width="500">
 <br>
-<img src="/cd/images/dunnerstunner/flag7.HEIC" style="display: block; margin: 0 auto;" width="500">
+<img src="/cd/images/dunnerstunner/flag7.jpg" style="display: block; margin: 0 auto;" width="500">
 
 Another hike/walk/adventure was going to Allan's beach to see sea lions and fur seals on the Otago Peninsula. Emily (my friend from McGill who is also here at Otago), her flatmate, and I took the bus out to the Otago Peninsula for ~ 1 hour, and then we walked along the road for 1.5 hours. Along the walk were these birds called oystercatchers, which had long dainty legs, and black swans! Once we got to the beach we only had around 20 minutes before we started walking back again :P But first, we admired the sea lion and fur seals! It's a little crazy how sea lions and seals are becoming not-so-crazy, and more normal. This adventure was quite the schlepp but I'm considering it training for bigger hikes which are on the horizon (I hope (... I'm trying to be patient)).  
 
 <br>
-<img src="/cd/images/dunnerstunner/allan1.HEIC" style="display: block; margin: 0 auto;" width="500">
+<img src="/cd/images/dunnerstunner/allan1.jpg" style="display: block; margin: 0 auto;" width="500">
 <br>
-<img src="/cd/images/dunnerstunner/allan1.HEIC" style="display: block; margin: 0 auto;" width="500">
+<img src="/cd/images/dunnerstunner/allan2.jpg" style="display: block; margin: 0 auto;" width="500">
 <br>
-<img src="/cd/images/dunnerstunner/allan2.HEIC" style="display: block; margin: 0 auto;" width="500">
-<br>
-<img src="/cd/images/dunnerstunner/allan3.HEIC" style="display: block; margin: 0 auto;" width="500">
+<img src="/cd/images/dunnerstunner/allan3.JPG" style="display: block; margin: 0 auto;" width="500">
 <br>
 <img src="/cd/images/dunnerstunner/allan4.JPG" style="display: block; margin: 0 auto;" width="500">
 <figcaption>black swans at Hooper's inlet (on the way to Allan's beach)</figcaption>
