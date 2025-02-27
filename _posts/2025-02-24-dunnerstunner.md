@@ -12,12 +12,15 @@ This week, I was finally able to get out into the hills and do some hiking. I'm 
 
 <br>
 <img src="/cd/images/dunnerstunner/signal1.JPG" style="display: block; margin: 0 auto;" width="500">
+<figcaption>Otago Peninsula</figcaption>
 <br>
 <img src="/cd/images/dunnerstunner/signal2.JPG" style="display: block; margin: 0 auto;" width="500">
+<figcaption>Otago Peninsula</figcaption>
 <br>
 <img src="/cd/images/dunnerstunner/signal3.JPG" style="display: block; margin: 0 auto;" width="500">
 <br>
 <img src="/cd/images/dunnerstunner/baldwin.JPG" style="display: block; margin: 0 auto;" width="500">
+<figcaption>Baldwin Street</figcaption>
 
 Another hike I did was called Pineapple Track and Flagstaff Summit. I'm really impressed with the bus service here -- I took the bus out of the city for about 15 mins to this hike. How cool is it that I can bus to a hike?? After this hike, I went to the local farmer's market which is pretty popular here and ate a delicious savoury Chinese crepe (Jian Bing Guo Zi) and a halloumi bao bun and it was so super amazing yummy delicious (or maybe I was just really hungry from my 10km hike... we'll never know).
 
@@ -54,11 +57,11 @@ Another hike/walk/adventure was going to Allan's beach to see sea lions and fur 
 <img src="/cd/images/dunnerstunner/allan3.HEIC" style="display: block; margin: 0 auto;" width="500">
 <br>
 <img src="/cd/images/dunnerstunner/allan4.JPG" style="display: block; margin: 0 auto;" width="500">
+<figcaption>black swans at Hooper's inlet (on the way to Allan's beach)</figcaption>
 <br>
 <img src="/cd/images/dunnerstunner/allan5.JPG" style="display: block; margin: 0 auto;" width="500">
 <br>
 <img src="/cd/images/dunnerstunner/allan6.JPG" style="display: block; margin: 0 auto;" width="500">
-
 
 The university here is so organized and nice compared to McGill, it's amazing!? Including interactions with staff members whenever you have a question, and just the way they have everything centrally organized. On Monday this week I had my international orientation which was surprisingly informative. Other uni events I attended included a welcome barbecue for the UniFlats and an International Food Festival (went with my flatmates!). It's funny, the classic Kiwi barbecue involves a sausage on a slice of white bread (!not a bun!) with 'tomato sauce' (ketchup), barbecue sauce, and, if you're lucky, fried onions. I think I've had more than 3 or 4 of these in the past week because I love free food. 
 
