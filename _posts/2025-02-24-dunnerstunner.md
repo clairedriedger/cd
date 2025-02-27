@@ -11,8 +11,10 @@ Hello once again from across the ocean. Thank you so much to everyone who has re
 This week, I was finally able to get out into the hills and do some hiking. I'm trying to do all the hikes that I can, but I'm limited to places I can get to by bus or foot, for now, because I don't know people with a car that I'm on 'trip planning' terms with yet. The beginning of most hikes is a walk through a lovely lush jungle-like forest. First up, Signal Hill -- what's amazing is that I walked to the trail head from my flat (that's how accessible things are). This little hike included some views of the Otago Peninsula. After, I walked down the road on the backside over to Baldwin street (the aforementioned steepest street in the world).
 
 <br>
+<figure>
 <img src="/cd/images/dunnerstunner/signal1.JPG" style="display: block; margin: 0 auto;" width="500">
 <figcaption>Otago Peninsula</figcaption>
+</figure>
 <br>
 <img src="/cd/images/dunnerstunner/signal2.JPG" style="display: block; margin: 0 auto;" width="500">
 <figcaption>Otago Peninsula</figcaption>
