@@ -13,16 +13,16 @@ This week, I was finally able to get out into the hills and do some hiking. I'm 
 <br>
 <figure>
 <img src="/cd/images/dunnerstunner/signal1.JPG" style="display: block; margin: 0 auto;" width="500">
-<figcaption>Otago Peninsula</figcaption>
+<div style="text-align: center;"><figcaption>Otago Peninsula</figcaption>
 </figure>
 <br>
 <img src="/cd/images/dunnerstunner/signal2.JPG" style="display: block; margin: 0 auto;" width="500">
-<figcaption>Otago Peninsula</figcaption>
+<div style="text-align: center;"><figcaption>Otago Peninsula</figcaption>
 <br>
 <img src="/cd/images/dunnerstunner/signal3.JPG" style="display: block; margin: 0 auto;" width="500">
 <br>
 <img src="/cd/images/dunnerstunner/baldwin.JPG" style="display: block; margin: 0 auto;" width="200">
-<figcaption>Baldwin Street</figcaption>
+<div style="text-align: center;"><figcaption>Baldwin Street</figcaption>
 
 Another hike I did was called Pineapple Track and Flagstaff Summit. I'm really impressed with the bus service here -- I took the bus out of the city for about 15 mins to this hike. How cool is it that I can bus to a hike?? After this hike, I went to the local farmer's market which is pretty popular here and ate a delicious savoury Chinese crepe (Jian Bing Guo Zi) and a halloumi bao bun and it was so super amazing yummy delicious (or maybe I was just really hungry from my 10km hike... we'll never know).
 
@@ -57,7 +57,7 @@ Another hike/walk/adventure was going to Allan's beach to see sea lions and fur 
 <img src="/cd/images/dunnerstunner/allan3.JPG" style="display: block; margin: 0 auto;" width="500">
 <br>
 <img src="/cd/images/dunnerstunner/allan4.JPG" style="display: block; margin: 0 auto;" width="500">
-<figcaption>black swans at Hooper's inlet (on the way to Allan's beach)</figcaption>
+<div style="text-align: center;"><figcaption>black swans at Hooper's inlet (on the way to Allan's beach)</figcaption>
 <br>
 <img src="/cd/images/dunnerstunner/allan5.JPG" style="display: block; margin: 0 auto;" width="500">
 <br>
