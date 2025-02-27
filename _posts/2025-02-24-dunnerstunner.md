@@ -21,7 +21,7 @@ This week, I was finally able to get out into the hills and do some hiking. I'm 
 <br>
 <img src="/cd/images/dunnerstunner/signal3.JPG" style="display: block; margin: 0 auto;" width="500">
 <br>
-<img src="/cd/images/dunnerstunner/baldwin.JPG" style="display: block; margin: 0 auto;" width="500">
+<img src="/cd/images/dunnerstunner/baldwin.JPG" style="display: block; margin: 0 auto;" width="200">
 <figcaption>Baldwin Street</figcaption>
 
 Another hike I did was called Pineapple Track and Flagstaff Summit. I'm really impressed with the bus service here -- I took the bus out of the city for about 15 mins to this hike. How cool is it that I can bus to a hike?? After this hike, I went to the local farmer's market which is pretty popular here and ate a delicious savoury Chinese crepe (Jian Bing Guo Zi) and a halloumi bao bun and it was so super amazing yummy delicious (or maybe I was just really hungry from my 10km hike... we'll never know).
@@ -41,7 +41,7 @@ Another hike I did was called Pineapple Track and Flagstaff Summit. I'm really i
 <br>
 <img src="/cd/images/dunnerstunner/flag4.JPG" style="display: block; margin: 0 auto;" width="500">
 <br>
-<img src="/cd/images/dunnerstunner/flag5.JPG" style="display: block; margin: 0 auto;" width="500">
+<img src="/cd/images/dunnerstunner/flag5.JPG" style="display: block; margin: 0 auto;" width="200">
 <br>
 <img src="/cd/images/dunnerstunner/flag6.JPG" style="display: block; margin: 0 auto;" width="500">
 <br>
@@ -69,7 +69,7 @@ The university here is so organized and nice compared to McGill, it's amazing!? 
 
 I signed up for the local climbing gym called Resistance. I'm looking forward to this because two of my flatmates (Rory and Emily -- oh yeah, Emily (nicknamed Savage) came this week too and she's great like the rest of my flatmates!) also climb, and I'm in a climbing group chat which is something I don't have in Montreal. I've only been twice so far, but I'm planning on going tomorrow again. I like the way they set and I'm happy to have some climbing buddies. I also managed to get signed up for the Tramping club which runs outdoor hikes, swims, climbs, social hours, etc! (update: on Tuesday, I put my name in the hat for a hike to Paradise (yes, it's called Paradise) but didn't get picked :/ womp womp).
 
-I feel like I'm starting to get to know my flatmates a bit better, and I am learning their personalities more and I am able to be myself a bit more. We have a pretty social flat,: we're watching Wallace & Gromit, we made homemade ice cream together this week, had a pizza dinner, played Mario Kart, and more. I've now had two different people tell me that I lucked out with my flatmates and that they're really great and I believe them (two of my flatmates are from the UK and are on exchange for a year, so some people already know them!).
+I feel like I'm starting to get to know my flatmates a bit better, and I am learning their personalities more and I am able to be myself a bit more. We have a pretty social flat; we're watching Wallace & Gromit, we made homemade ice cream together this week, had a pizza dinner, played Mario Kart, and more. I've now had two different people tell me that I lucked out with my flatmates and that they're really great and I believe them (two of my flatmates are from the UK and are on exchange for a year, so some people already know them!).
 
 Technically, the first few days of school have already started as I write this, and I might make a special blog post later this week or next week as a day-in-the-life type of post to really give y'all a glimpse into the day-to-day because I feel like I can't actually convey what it's like being here just by writing about my week in retrospect.
 
