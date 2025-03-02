@@ -6,7 +6,7 @@ permalink: /2025/03/02/backtoschool/
 ---
 <br>
 <figure>
-<img src="/cd/images/backtoschool/map.png" style="display: block; margin: 0 auto;" width="600">
+<img src="/cd/images/backtoschool/map.png" style="display: block; margin: 0 auto;" width="400">
 <div style="text-align: center;"><figcaption>This week's locations</figcaption>
 <div style="text-align: left;">
 
@@ -77,8 +77,8 @@ Today (Sunday) we (me, Aidan and Bejamin (Aidan's friend)) went to Smaill's beac
     </figure>
   </div>
   <div class="right" style="flex: 1;">
-    <figure style="margin: 5px; width: 92%; display: flex; justify-content: center;">
-      <img src="/cd/images/backtoschool/smaill2.JPG" style="width: 92%;">
+    <figure style="margin: 5px; width: 100%; display: flex; justify-content: center;">
+      <img src="/cd/images/backtoschool/smaill2.JPG" style="width: 100%;">
     </figure>
   </div>
 </div>
