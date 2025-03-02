@@ -77,7 +77,7 @@ Today (Sunday) we (me, Aidan and Bejamin (Aidan's friend)) went to Smaill's beac
     </figure>
   </div>
   <div class="right" style="flex: 1;">
-    <figure style="margin: 5px; width: 100%; display: flex; justify-content: center;">
+    <figure style="width: 100%; display: flex; justify-content: center;">
       <img src="/cd/images/backtoschool/smaill2.JPG" style="width: 100%;">
     </figure>
   </div>
