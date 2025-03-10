@@ -36,7 +36,7 @@ After the albatrosses, we enjoyed the beach for a while, taking in the beautiful
 <div style="text-align: left;">
 <br>
 <figure>
-<img src="/cd/images/penguinalbatross/peng6.JPG" style="display: block; margin: 0 auto;" width="400">
+<img src="/cd/images/penguinalbatross/peng6.jpg" style="display: block; margin: 0 auto;" width="400">
 <div style="text-align: center;"><figcaption>Resting under a shelter</figcaption>
 <div style="text-align: left;">
 <br>
@@ -81,7 +81,7 @@ After the penguins we took the last bus back to town and got home at around 8pm,
 <br>
 <div style="text-align: center;">
   <figure style="display: inline-block; margin: 2px; width: 46%;">
-    <img src="/cd/images/penguinalbatross/lookout2.JPG" style="width: 100%;">
+    <img src="/cd/images/penguinalbatross/lookout2.jpg" style="width: 100%;">
   </figure>
   <figure style="display: inline-block; margin: 2px; width: 46%;">
     <img src="/cd/images/penguinalbatross/lookout3.jpg" style="width: 100%;">
