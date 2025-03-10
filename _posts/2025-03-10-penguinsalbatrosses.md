@@ -116,7 +116,7 @@ After the penguins we took the last bus back to town and got home at around 8pm,
 <div style="text-align: left;">
 
 
-This week I also tried the famous Whittakers chocolate (MMMMmmmMMMM, but so $$$) and went to the well-known pint night at UBar (meh).
+This week I also tried the famous Whittaker's chocolate (MMMMmmmMMMM, but so $7.5 per bar) and went to the well-known pint night at UBar (meh).
 
 
 <br>
