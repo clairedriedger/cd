@@ -11,11 +11,11 @@ In this week's installment of your favourite blog, I talk about my trip to the F
 <div style="text-align: left;">
 <br>
 By some miracle, I got picked off the wait list to go on a trip to Lake Marian in the Fiordlands with the Tramping Club. With a group of 12 others, we set off on an overnight hiking trip which was a *whole* 5 km long (read: sarcasm). But even so, I still sprained my ankle, whoops. One of the trip leaders was someone I went to the beaches with my first week here (see "Dunedin"); and I knew two of the other punters (that's what they call the kids on the trip) -- one of them is in my geography paper and the other is part of the UK group of exchange students that my flatmates know. It was my first overnight hiking trip and it was what I was expecting -- soul nourishing and absolutely stunning. The people on my trip were very nice, so I couldn't have asked for much more. It's awesome that in just a weekend I left the city, drove 4+ hours, camped for 2 nights, and then drove home. I still feel busy in school but then I remember that in no world would I be able to run away for a weekend at McGill without doing homework without many repercussions. I'll write more in the photo captions.
-<img src="/cd/images/tothefiordlands/sign.JPG" style="display: block; margin: 0 auto;" width="600">
+<img src="/cd/images/tothefiordlands/sign.JPG" style="display: block; margin: 0 auto;" width="300">
 <div style="text-align: center;"><figcaption>The hike can be completed as a day trip, although it took us longer than 1.5 hours because our packs were quite large</figcaption>
 <div style="text-align: left;">
 <br>
-<img src="/cd/images/tothefiordlands/waterfall.JPG" style="display: block; margin: 0 auto;" width="600">
+<img src="/cd/images/tothefiordlands/waterfall.JPG" style="display: block; margin: 0 auto;" width="400">
 <div style="text-align: center;"><figcaption>Waterfall near the start of the track</figcaption>
 <div style="text-align: left;">
 <br>
@@ -32,7 +32,7 @@ By some miracle, I got picked off the wait list to go on a trip to Lake Marian i
 <div style="text-align: left;">
 <br>
 <img src="/cd/images/tothefiordlands/backs.JPEG" style="display: block; margin: 0 auto;" width="600">
-<div style="text-align: center;"><figcaption>A gaggle of girls standing at Lake Marian</figcaption>
+<div style="text-align: center;"><figcaption>A gaggle of punters standing at Lake Marian</figcaption>
 <div style="text-align: left;">
 <br>
 <img src="/cd/images/tothefiordlands/descend.JPEG" style="display: block; margin: 0 auto;" width="600">
@@ -55,9 +55,13 @@ By some miracle, I got picked off the wait list to go on a trip to Lake Marian i
 <div style="text-align: center;"><figcaption>A kiwi said this was the best campsite they had ever been to in all of New Zealand</figcaption>
 <div style="text-align: left;">
 <br>
-<img src="/cd/images/tothefiordlands/waterfalls.JPG" style="display: block; margin: 0 auto;" width="600">
-<div style="text-align: center;"><figcaption>Our campsites were at the back of the lake. You could only see the numerous waterfalls by walking around to this side. They were flowing from the top of the steep, steep mountains to the bottom. We walked all the way to the base of a waterfall to fill up our water bottles. Talk about fresh mountain water. Although it probably took us an hour and a half LOL.</figcaption>
+<img src="/cd/images/tothefiordlands/waterfalls.JPG" style="display: block; margin: 0 auto;" width="400">
+<div style="text-align: center;"><figcaption>
+<br> 
+Our campsites were at the back of the lake. You could only see the numerous waterfalls by walking around to this side. They were flowing from the top of the steep, steep mountains to the bottom. We walked all the way to the base of a waterfall to fill up our water bottles. Talk about fresh mountain water. Although it probably took us an hour and a half LOL.</figcaption>
 <div style="text-align: left;">
+<br>
+<img src="/cd/images/tothefiordlands/fire.JPEG" style="display: block; margin: 0 auto;" width="600">
 
 During the campfire I had a really nice conversation and realized that was the first time I had had a reflective conversation about exchange, making friends, and this experience since I've arrived in New Zealand, and it almost made me lonelier. Don't get me wrong, my flatmates are such good fun, but we don't really have long conversations and I think I'm missing this a bit. So my new goal is to give someone a compliment everyday and maybe that way I can make some of my own friends instead of just leaching off my flatmates' British friends who all already know each other. 
 <br>
