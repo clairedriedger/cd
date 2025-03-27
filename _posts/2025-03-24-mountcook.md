@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Clicking, and Mount Cook)"
+title:  "Mount Cook"
 date:   2025-03-26 
-permalink: /2025/03/26/click/
+permalink: /2025/03/26/mountcook/
 ---
 
 This week's post shall be divided into three sections: school, a trip to Mount Cook National Park, and social. Head's up, there are a lot of pictures in this post :)
