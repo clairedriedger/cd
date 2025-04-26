@@ -56,7 +56,7 @@ My group did a day trip up to Brewster Hut, which is something on my bucket list
 <br>
 <br>
 <img src="/cd/images/anothertramp/tramp8.JPG" style="display: block; margin: 0 auto;" width="500">
-<div style="text-align: center;"><figcaption>Me and Emily!!</figcaption>
+<div style="text-align: center;"><figcaption>Emily and I!!</figcaption>
 <div style="text-align: left;">
 <br>
 <br>
