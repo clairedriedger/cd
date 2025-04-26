@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Another tramp (Makarora)"
-date:   2025-04-02 
-permalink: /2025/03/26/anothertramp/
+date:   2025-04-16 
+permalink: /2025/04/16/anothertramp/
 ---
 I'm feeling like me talking about my hikes on the weekend might be getting a bit annoying. Maybe it would be better to talk more about my thoughts and feelings... in the future. Regardless, I'm gonna talk about another hike in this post...
 <br>
