@@ -85,4 +85,4 @@ My favourite moment of the trip was cooking Saturday dinner with my tramping gro
 <br>
 
 <br> 
-After some trial and error, I got registered for a Concordia summer course, so that's the second half of my summer somewhat sorted... it's a bit strange to start thinking about coming home eventually. I have also been working on booking my plane tickets home this week, but I am still in denial about having to leave. Next week's post won't arrive until at least April 29th ish, because I am leaving for a 10+ day trip for mid-semester break in one hour. Until then, I hope everybody has a lovely life. I will miss you all, my dearests. You's make my life go 'round.
+It's a bit strange to start thinking about coming home eventually. I have been working on booking my plane tickets home this week, but I am still in denial about having to leave. Next week's post won't arrive until at least April 29th ish, because I am leaving for a 10+ day trip for mid-semester break in one hour. Until then, I hope everybody has a lovely life. I will miss you all, my dearests. You's make my life go 'round.
