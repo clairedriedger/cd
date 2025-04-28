@@ -56,7 +56,7 @@ My group did a day trip up to Brewster Hut, which is something on my bucket list
 <br>
 <br>
 <img src="/cd/images/anothertramp/tramp8.JPG" style="display: block; margin: 0 auto;" width="500">
-<div style="text-align: center;"><figcaption>Emily and I!!</figcaption>
+<div style="text-align: center;"><figcaption>Me and Emily!!</figcaption>
 <div style="text-align: left;">
 <br>
 <br>
@@ -85,4 +85,4 @@ My favourite moment of the trip was cooking Saturday dinner with my tramping gro
 <br>
 
 <br> 
-It's a bit strange to start thinking about coming home eventually. I have been working on booking my plane tickets home this week, but I am still in denial about having to leave. Next week's post won't arrive until at least April 29th ish, because I am leaving for a 10+ day trip for mid-semester break in one hour. Until then, I hope everybody has a lovely life. I will miss you all, my dearests. You's make my life go 'round.
+It's a bit strange to start thinking about coming home eventually. I have been working on booking my plane tickets home this week, but I am still in denial about having to leave. Next week's post won't arrive until at least April 29th ish, because I am leaving for a 10+ day trip for mid-semester break in one hour. Until then, I hope everybody has a lovely life. I will miss you all, my dearests. You make my life go 'round.
