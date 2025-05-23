@@ -7,7 +7,7 @@ permalink: /2025/05/22/thisisnotapostaboutliverpoolhut/
 Dearest readers,
 <br>
 <br>
-This is not a post about Liverpool Hut (copyright Mavis). It's about emotions.
+This is not a post about Liverpool Hut (copyright Mavis). It's about people.
 <br>
 <br>
 Here's the sitch: some friends are over to help Rory dye their hair, and Savage is sat on the couch, and Wipe Out Australia is playing on the TV. I just finished up my last assignment of the semester! There's still one week of school left, one week before exams, and then two weeks of finals, so it's not over yet. I still have a quarter of my time left, but yet I fear the end every day, and so is everyone else. For almost everyone I know here, this has been the best year/semester of their lives. 
