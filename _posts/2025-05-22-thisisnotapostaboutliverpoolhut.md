@@ -80,10 +80,10 @@ The first part of the tramp was a valley walk, with some more river crossings. O
 
 <div style="text-align: center;">
   <figure style="display: inline-block; margin: 5px; width: 45%">
-    <img src="/cd/images/feelings/liverpool4.JPG" style="width: 80%;">
+    <img src="/cd/images/feelings/liverpool4.jpg" style="width: 80%;">
   </figure>
     <figure style="display: inline-block; margin: 5px; width: 45%">
-    <img src="/cd/images/feelings/liverpool5.JPG" style="width: 80%;">
+    <img src="/cd/images/feelings/liverpool5.jpg" style="width: 80%;">
   </figure>
 </div>
 <br>
@@ -112,7 +112,7 @@ I've been keeping myself very busy with cooking, in particular, inspired by Benj
     <img src="/cd/images/feelings/food1.jpg" style="width: 100%;">
   </figure>
     <figure style="display: inline-block; margin: 5px; width: 45%">
-    <img src="/cd/images/feelings/food2.JPG" style="width: 80%;">
+    <img src="/cd/images/feelings/food2.jpg" style="width: 80%;">
   </figure>
   <div style="text-align: center;"><figcaption>Homemade gnocchi, and pesto</figcaption>
 <div style="text-align: left;">
