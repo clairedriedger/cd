@@ -2,7 +2,8 @@
 layout: post
 title:  "Back to School"
 date:   2025-03-02 
-permalink: /2025/03/02/backtoschool/
+permalink: /archive/newz/:title/
+thumbnail: /images/blog_thumbnails/backtoschool.jpg
 ---
 <br>
 <figure>

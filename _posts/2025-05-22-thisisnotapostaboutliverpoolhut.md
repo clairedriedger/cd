@@ -2,7 +2,8 @@
 layout: post
 title:  "This is not a post about Liverpool Hut"
 date:   2025-05-22 
-permalink: /2025/05/22/thisisnotapostaboutliverpoolhut/
+permalink: /archive/newz/:title/
+thumbnail: /images/blog_thumbnails/feelings.jpg
 ---
 Dearest readers,
 <br>

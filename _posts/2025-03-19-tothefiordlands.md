@@ -2,7 +2,8 @@
 layout: post
 title:  "To the Fiordlands!"
 date:   2025-03-19 
-permalink: /2025/03/02/tothefiordlands/
+permalink: /archive/newz/:title/
+thumbnail: /images/blog_thumbnails/tothefiordlands.jpg
 ---
 In this week's installment of your favourite blog, I talk about my trip to the Fiordlands, and then, because this is a blog about me, I talk about myself.
 <br>

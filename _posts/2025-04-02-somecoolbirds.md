@@ -2,7 +2,8 @@
 layout: post
 title:  "Some Cool Birds"
 date:   2025-04-02 
-permalink: /2025/03/26/somecoolbirds/
+permalink: /archive/newz/:title/
+thumbnail: /images/blog_thumbnails/somecoolbirds.png
 ---
 Hi everyone,
 This week's post is going to be a bit unsubstantial but because I had a lot of assignments going on in school. Still, the assignments are different at this university because you can earn more points for less work. If I can count, I altogether completed 70% worth of assignments. I'll give you a rundown of a few things I did and that will be it for this week :)

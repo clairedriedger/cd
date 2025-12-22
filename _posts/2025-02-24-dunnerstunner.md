@@ -2,7 +2,8 @@
 layout: post
 title:  "DunnerStunner"
 date:   2025-02-24
-permalink: /2025/02/24/dunnerstunner/
+permalink: /archive/newz/:title/
+thumbnail: /images/blog_thumbnails/dunnerstunner.jpg
 ---
 Dearest friends and family,
 

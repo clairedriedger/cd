@@ -2,7 +2,8 @@
 layout: post
 title:  "Penguins and Albatrosses"
 date:   2025-03-10 
-permalink: /2025/03/02/penguinsalbatrosses/
+permalink: /archive/newz/:title/
+thumbnail: /images/blog_thumbnails/penguinalbatross.jpg
 ---
 
 This week was a wonderful week in the life. In the end, I dropped the math class, and I think that was the right decision. All the stars are aligning for a relatively easy semester (4 courses, pass/fail, no math courses), and from here on out I am going to try to do a trip or hike every weekend, and to only do schoolwork between the hours of 9-5 during the week, that way I can really take advantage of this monumentous opportunity. Even this week I feel much more settled in and comfortable with everything (city, university, etc) and people (flatmates). I'm really looking forward to the coming weeks and I expect adventures to pick up in volume starting now!!
