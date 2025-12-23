@@ -34,6 +34,10 @@ body {
   height: auto;
   object-fit: contain;
   display: block;
+  transition: transform 0.4s ease;
+}
+.site-logo:hover {
+  transform: rotate(40deg);
 }
 .site-name {
   font-size: 2rem;
@@ -54,7 +58,7 @@ body {
   color: #000000;
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 14px;
 }
 
 .site-title:hover {
@@ -210,4 +214,30 @@ body {
   margin-bottom: 0;
 }
 
+/* Styling for about page */
+.row, .column {
+  box-sizing: border-box;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
+.column {float: left;
+  padding: 5px;
+}
+
+.left {
+  width: 30%;
+}
+
+.right {
+  width: 60%;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}

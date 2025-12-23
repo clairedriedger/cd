@@ -3,4 +3,4 @@ layout: page
 title: Geography
 permalink: /geography/
 ---
-Hello
+Sea Ice paper, ArcGIS maps
