@@ -1,7 +1,7 @@
 ---
 layout: blog
 list_title: "NewZ: Claire's New Zealand Exchange Newspaper"
-permalink: /archive/newz/
+permalink: /museum/newz/
 ---
 <div class="post-grid">
   {% for post in site.posts reversed %}
