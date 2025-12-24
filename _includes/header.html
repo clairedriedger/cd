@@ -22,3 +22,17 @@
 
   </div>
 </header>
+<script>
+const logo = document.querySelector('.site-logo');
+
+logo.addEventListener('mouseenter', () => {
+  // Remove the class to reset the animation
+  logo.classList.remove('rotate');
+  
+  // Trigger reflow to restart the animation
+  void logo.offsetWidth;
+
+  // Add the class to play the animation
+  logo.classList.add('rotate');
+});
+</script>

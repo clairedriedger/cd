@@ -10,15 +10,16 @@ permalink: /about/
   </div>
   <div class="column right">
   <p>
-  Hello :D
-    I am currently studying Math & Computer Science at McGill University, and I'm done my minor in Geography. 
-
-    Currently: DRP & DiM
-
-    Previously: Research
-
-    Check out: email, paper,
-
+  I'm a final-year undergrad at McGill University. I study math and computer science with a minor in geography. 
+  <br>
+  <br>
+  Presently, I'm working on ____ as part of the (link) Directed Reading Program at McGill, and I'm a part of (link) McGill Diversity in Math.
+  <br>
+  <br>
+  Previously, I've had the pleasure of working under (link) Professor Mallik Mahmud. You can find our published research (link) here.
+  <br>
+  <br>
+  LinkedIn, GitHub, CV
   </p>
   </div>
 </div>
