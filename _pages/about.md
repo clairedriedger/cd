@@ -6,20 +6,23 @@ permalink: /about/
 
 <div class="row">
   <div class="column left">
-  <img src="/cd/images/headshot.JPG" style="display: block; margin: 0 auto;">
+  <img src="/cd/images/headshot.JPG" style="display: block; margin: 0 auto;"
+  style="display: block; margin: 0 auto; border: 2px solid white; border-radius: 4px;">
   </div>
   <div class="column right">
   <p>
-  I'm a final-year undergrad at McGill University. I study math and computer science with a minor in geography. 
+  I'm a final-year undergrad at McGill University in Montreal, & originally from Ottawa. I study math and computer science with a minor in geography.
   <br>
   <br>
-  Presently, I'm working on ____ as part of the (link) Directed Reading Program at McGill, and I'm a part of (link) McGill Diversity in Math.
+  Currently: I'm working on ____ as part of the <a href="https://www.math.mcgill.ca/gsams/drp/">Directed Reading Program</a> at McGill, and I'm involved with <a href="https://diversityinmath.ssmu.ca/">McGill Diversity in Math</a>.
   <br>
   <br>
-  Previously, I've had the pleasure of working under (link) Professor Mallik Mahmud. You can find our published research (link) here.
+  Previously: I've had the pleasure of working under <a href="https://www.mcgill.ca/arcticresearch/">Professor Mallik Mahmud</a>. You can find our published research <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11204520">here</a>.
   <br>
   <br>
-  LinkedIn, GitHub, CV
+  <a href="https://www.linkedin.com/in/clairedriedger" class="small-button" target="_blank">LinkedIn</a>
+      <a href="https://github.com/clairedriedger" class="small-button" target="_blank">GitHub</a>
+      <a href="/assets/CV.pdf" class="small-button" target="_blank">CV</a>
   </p>
   </div>
 </div>

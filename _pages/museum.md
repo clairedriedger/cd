@@ -11,7 +11,7 @@ permalink: /museum/
   <a href="/cd/museum/newz" class="newz-link">
     <img src="/cd/images/newz.png" alt="NewZ newspaper cover" class="newz-image">
   <figcaption class="newz-caption">
-    NewZ – <br>Claire’s New Zealand Exchange Newspaper
+    My New Zealand Exchange Newspaper
   </figcaption>
   </a>
 </figure>

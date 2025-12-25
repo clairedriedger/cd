@@ -3,6 +3,7 @@ layout: page
 title: Geography
 permalink: /geography/
 ---
+Journal Article in Polar Remote Sensing
 <a href="{{ site.baseurl }}/assets/seaice.pdf" 
    onclick="window.open(this.href, 'pdfPopup', 'width=800,height=600'); return false;">
   <iframe 
