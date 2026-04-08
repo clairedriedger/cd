@@ -3,15 +3,49 @@ layout: page
 title: Geography
 permalink: /geography/
 ---
-Journal Article in Polar Remote Sensing
-<a href="{{ site.baseurl }}/assets/seaice.pdf" 
-   onclick="window.open(this.href, 'pdfPopup', 'width=800,height=600'); return false;">
-  <iframe 
-      src="{{ site.baseurl }}/assets/seaice.pdf#toolbar=0" 
-      style="width:500px; height:300px; border:1px solid #ccc;">
-  </iframe>
+<figure class="paper-figure">
+  <a href="/cd/geography/paper" class="paper-link">
+    <img src="/cd/images/paper.png" alt="Paper cover" class="paper-image">
+  <figcaption class="paper-caption">
+    Melt Onset Variability in the Northern CAA
+  </figcaption>
+  </a>
+</figure>
 
+<style>
+  .paper-figure {
+  margin: 2rem 0;
+  text-align: center;
+  transform: translateX(clamp(-18rem, -20vw, -4rem));
+  padding-left: 5rem;
+}
 
-Sea Ice paper, ArcGIS maps
+  .paper-link {
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+  }
 
- If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material
+  .paper-image {
+    width: 20vw;
+    max-width: 420px;
+    min-width: 220px;
+    height: auto;
+    cursor: pointer;
+  }
+
+  .paper-caption {
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: black;
+    font-style: italic;
+    cursor: pointer;
+  }
+
+  .paper-link:hover .paper-image {
+    transform: scale(1.02);
+  }
+  .paper-link:hover .paper-caption {
+    text-decoration: none;
+    }
+</style>
