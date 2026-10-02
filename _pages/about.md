@@ -11,13 +11,10 @@ permalink: /about/
   </div>
   <div class="column right">
   <p>
-  I recently graduated from McGill University in Montreal with a BSc in math and computer science and a minor in geography.
+  Currently: I'm a research assistant at the Bank of Canada.
   <br>
   <br>
-  Currently: I'm working on random planar maps as part of the <a href="https://www.math.mcgill.ca/gsams/drp/">Directed Reading Program</a> at McGill, and I'm involved with <a href="https://diversityinmath.ssmu.ca/">McGill Diversity in Math</a>.
-  <br>
-  <br>
-  Previously: I'm working on random planar maps as part of the <a href="https://www.math.mcgill.ca/gsams/drp/">Directed Reading Program</a> at McGillI've had the pleasure of working under <a href="https://www.mcgill.ca/arcticresearch/">Professor Mallik Mahmud</a>. You can find our published research <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11204520">here</a>.
+  Previously: I recently graduated from McGill University in Montreal with a BSc in math and computer science and a minor in geography. I enjoyed working on random planar maps as part of the <a href="https://www.math.mcgill.ca/gsams/drp/">Directed Reading Program</a> at McGill.
   <br>
   <br>
   <a href="https://www.linkedin.com/in/clairedriedger" class="small-button" target="_blank">LinkedIn</a>
