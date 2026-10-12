@@ -1,0 +1,43 @@
+<div class="flipbook"
+     data-flipbook
+     data-frames="{{ include.frames | default: 32 }}"
+     data-folder="{{ include.folder | relative_url }}/"
+     data-title="{{ include.title | default: 'Animation' | escape }}">
+
+  <h3 class="flipbook-title">
+    {{ include.title | default: "Animation" | escape }}
+  </h3>
+
+  <div class="flipbook-frame">
+    <img data-flipbook-image
+         alt="{{ include.alt | default: include.title | default: 'Animation' | escape }}"
+         loading="lazy">
+  </div>
+
+  <div class="flipbook-controls">
+    <button type="button" data-play>Play</button>
+    <button type="button" data-reset>Reset</button>
+
+    <label>
+      Speed
+      <select data-speed>
+        <option value="200">Slow</option>
+        <option value="100" selected>Normal</option>
+        <option value="50">Fast</option>
+      </select>
+    </label>
+  </div>
+
+  <input data-frame-slider
+         type="range"
+         min="1"
+         max="{{ include.frames | default: 32 }}"
+         value="1"
+         step="1"
+         aria-label="Choose animation frame">
+
+  <p class="flipbook-status">
+    Frame <span data-frame-count>1</span> /
+    {{ include.frames | default: 32 }}
+  </p>
+</div>

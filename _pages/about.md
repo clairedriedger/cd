@@ -19,7 +19,9 @@ permalink: /about/
   <br>
   <a href="https://www.linkedin.com/in/clairedriedger" class="small-button" target="_blank">LinkedIn</a>
       <a href="https://github.com/clairedriedger" class="small-button" target="_blank">GitHub</a>
-      <a href="/assets/CV.pdf" class="small-button" target="_blank">CV</a>
+      <!--
+        <a href="/assets/CV.pdf" class="small-button" target="_blank">CV</a>
+      -->
   </p>
   </div>
 </div>
