@@ -3,6 +3,7 @@ layout: page
 title: Geography
 permalink: /geography/
 ---
+
 <figure class="paper-figure">
   <a href="/cd/geography/paper" class="paper-link">
     <img src="/cd/images/paper.png" alt="Paper cover" class="paper-image">
